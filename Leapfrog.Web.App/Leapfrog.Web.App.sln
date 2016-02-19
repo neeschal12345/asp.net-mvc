@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leapfrog.Web.App", "Leapfrog.Web.App\Leapfrog.Web.App.csproj", "{DE8FD4AC-9CA5-4A08-B781-6A80902714ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leapfrog.Web.App.Tests", "Leapfrog.Web.App.Tests\Leapfrog.Web.App.Tests.csproj", "{AAA994B6-E9B6-496D-899F-BDBAE2C406EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE8FD4AC-9CA5-4A08-B781-6A80902714ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE8FD4AC-9CA5-4A08-B781-6A80902714ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE8FD4AC-9CA5-4A08-B781-6A80902714ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE8FD4AC-9CA5-4A08-B781-6A80902714ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAA994B6-E9B6-496D-899F-BDBAE2C406EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAA994B6-E9B6-496D-899F-BDBAE2C406EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAA994B6-E9B6-496D-899F-BDBAE2C406EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAA994B6-E9B6-496D-899F-BDBAE2C406EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
